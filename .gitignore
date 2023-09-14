@@ -1,0 +1,4 @@
+.git
+.idea
+.env
+app/node_modules

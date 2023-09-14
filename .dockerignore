@@ -1,0 +1,6 @@
+Dockerfile
+.idea
+.git
+commands.txt
+.env_EXAMPLE
+app/node_modules
